@@ -20,5 +20,5 @@ export class PostController {
 }
 //Please create multiple controller class for more routing. It shouldn't be used
 //single controller for all routing urls.
-//We shouldn't write the business logic also here. Just keep them inside the\
+//We shouldn't write the business logic also here. Just keep them inside the
 // Service or other and call the service from here.
